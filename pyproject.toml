@@ -1,0 +1,17 @@
+[project]
+name = "3stm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "guru",
+]
+
+[tool.uv.workspace]
+members = [
+    "guru",
+]
+
+[tool.uv.sources]
+guru = { workspace = true, editable = true }

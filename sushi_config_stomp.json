@@ -1,0 +1,109 @@
+{
+  "host_config": {
+    "samplerate": 48000
+  },
+  "tracks": [
+    {
+      "name": "MAIN",
+      "label": "",
+      "channels": 2,
+      "inputs": [
+        {
+          "engine_channel": 0,
+          "track_channel": 0
+        }
+      ],
+      "outputs": [
+        {
+          "engine_channel": 0,
+          "track_channel": 0
+        },
+        {
+          "engine_channel": 1,
+          "track_channel": 1
+        }
+      ],
+      "plugins": [
+        {
+          "name": "verb",
+          "label": "Freeverb",
+          "type": "internal",
+          "uid": "sushi.testing.freeverb"
+        },
+        {
+          "name": "Filter1",
+          "label": "Flt1",
+          "type": "internal",
+          "uid": "sushi.brickworks.multi_filter"
+        },
+        {
+          "name": "Cheapdist",
+          "label": "Cheapdist",
+          "type": "lv2",
+          "uri": "http://ssj71.github.io/infamousPlugins/plugs.html#cheapdist"
+        },
+        {
+          "name": "cheap gain",
+          "label": "gain",
+          "type": "internal",
+          "uid": "sushi.testing.gain"
+        },
+        {
+          "name": "gate",
+          "label": "gate",
+          "type": "internal",
+          "uid": "sushi.brickworks.sidechain_noise_gate"
+        },
+        {
+          "name": "Filter2",
+          "label": "Flt2",
+          "type": "internal",
+          "uid": "sushi.brickworks.multi_filter"
+        },
+        {
+          "name": "stereo",
+          "label": "stereo",
+          "type": "internal",
+          "uid": "sushi.testing.stereo_mixer"
+        },
+        {
+          "name": "panner",
+          "type": "internal",
+          "uid": "sushi.testing.stereo_mixer"
+        }
+      ]
+    },
+    {
+      "name": "GATER",
+      "label": "Gater",
+      "channels": 2,
+      "inputs": [
+        {
+          "engine_channel": 0,
+          "track_channel": 0
+        },
+        {
+          "engine_channel": 1,
+          "track_channel": 1
+        }
+      ],
+      "outputs": [],
+      "plugins": [
+        {
+          "name": "sidechain",
+          "label": "sc",
+          "type": "internal",
+          "uid": "sushi.testing.send"
+        }
+      ]
+    }
+  ],
+  "initial_state": [
+    {
+      "processor": "sidechain",
+      "properties": {
+        "destination_name": "gate"
+      }
+    }
+  ]
+}
