@@ -1,0 +1,3 @@
+[submodule "guru"]
+	path = guru
+	url = git@bitbucket.org:mindswteam/guru.git
