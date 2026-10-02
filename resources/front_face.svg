@@ -1,0 +1,2005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="front_face.svg"
+   inkscape:export-filename="front_face_with_oled.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0158187"
+     inkscape:cx="410.50632"
+     inkscape:cy="451.85228"
+     inkscape:window-width="1526"
+     inkscape:window-height="1689"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient161"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop161" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop162" />
+    </linearGradient>
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect29" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect33" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect35" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect37" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect39" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect43" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect44" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect47" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect48" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect60" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect61" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect62" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect63" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect64" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect65" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect66" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect67" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect69" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect81" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect82" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect83" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect84" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect85" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect86" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect87" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect88" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect90" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect92" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect105" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect106" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect107" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect108" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect109" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect110" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect111" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect112" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect124" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect125" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect126" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect127" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect128" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect129" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect130" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect131" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect143" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect144" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect145" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect146" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect147" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect148" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect149" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect150" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect153" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect155" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient161"
+       id="radialGradient162"
+       cx="451.54089"
+       cy="70.162941"
+       fx="451.54089"
+       fy="70.162941"
+       r="3.5591764"
+       gradientTransform="matrix(1,0,0,5.8502307,0,-340.30644)"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="489.66608"
+       y="552.42108"
+       width="66.290535"
+       height="22.980719"
+       id="rect51" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#eedec2;fill-opacity:1;stroke:#ffffff;stroke-width:0.296753;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="157.76695"
+       height="195.20076"
+       x="33.568516"
+       y="45.834808"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <g
+       id="g4"
+       transform="matrix(0.29470565,0,0,0.29470565,73.401651,-196.92598)"
+       style="fill:#b3b3b3">
+      <path
+         sodipodi:type="star"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         id="path3"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="75.770081"
+         sodipodi:cy="182.40945"
+         sodipodi:r1="41.121834"
+         sodipodi:r2="35.612553"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 96.330996,218.02201 -41.121834,0 -20.560915,-35.61256 20.560918,-35.61255 41.121834,0 20.560911,35.61256 z" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.08479;stroke-dasharray:none;stroke-opacity:1"
+         id="path4"
+         cx="75.770081"
+         cy="182.40945"
+         r="31.103148" />
+    </g>
+    <g
+       id="g5"
+       transform="matrix(0.14911736,0,0,0.14911736,101.27518,-340.73505)"
+       style="fill:#b3b3b3">
+      <path
+         sodipodi:type="star"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         id="path5"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="75.770081"
+         sodipodi:cy="182.40945"
+         sodipodi:r1="41.121834"
+         sodipodi:r2="35.612553"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 96.330996,218.02201 -41.121834,0 -20.560915,-35.61256 20.560918,-35.61255 41.121834,0 20.560911,35.61256 z" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.08479;stroke-dasharray:none;stroke-opacity:1"
+         id="circle5"
+         cx="75.770081"
+         cy="182.40945"
+         r="31.103148" />
+    </g>
+    <g
+       id="g6"
+       transform="matrix(0.14911736,0,0,0.14911736,145.24054,-340.73505)"
+       style="fill:#b3b3b3">
+      <path
+         sodipodi:type="star"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         id="path6"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="75.770081"
+         sodipodi:cy="182.40945"
+         sodipodi:r1="41.121834"
+         sodipodi:r2="35.612553"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 96.330996,218.02201 -41.121834,0 -20.560915,-35.61256 20.560918,-35.61255 41.121834,0 20.560911,35.61256 z" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.08479;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6"
+         cx="75.770081"
+         cy="182.40945"
+         r="31.103148" />
+    </g>
+    <g
+       id="g7"
+       transform="translate(41.444213,-349.43188)">
+      <circle
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle7"
+         cx="58.14711"
+         cy="173.75668"
+         r="16.370079" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+         id="path7"
+         cx="58.126411"
+         cy="173.75513"
+         r="15.245911" />
+    </g>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect19"
+       width="19.512806"
+       height="19.512806"
+       x="87.403458"
+       y="-217.3112"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <g
+       id="g31"
+       transform="translate(42.321233,-387.10775)">
+      <g
+         id="g9"
+         transform="matrix(0.3073032,0,0,0.3073032,118.41274,104.33737)">
+        <circle
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle8"
+           cx="58.14711"
+           cy="173.75668"
+           r="16.370079" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle9"
+           cx="58.126411"
+           cy="173.75513"
+           r="15.245911" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect20"
+         width="3.0346019"
+         height="3.0346019"
+         x="126.3908"
+         y="156.21605"
+         rx="1.0583333"
+         ry="1.0583333" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,1.9894733,1.6536277)"
+         id="text29"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect29);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+           x="489.66602"
+           y="563.50171"
+           id="tspan1">smear</tspan></text>
+    </g>
+    <g
+       id="g49"
+       transform="translate(42.321233,-387.10775)">
+      <g
+         id="g32"
+         transform="matrix(0.3073032,0,0,0.3073032,141.32973,104.33737)">
+        <circle
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle31"
+           cx="58.14711"
+           cy="173.75668"
+           r="16.370079" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle32"
+           cx="58.126411"
+           cy="173.75513"
+           r="15.245911" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect32"
+         width="3.0346019"
+         height="3.0346019"
+         x="149.30779"
+         y="156.21605"
+         rx="1.0583333"
+         ry="1.0583333" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,24.906461,1.6536277)"
+         id="text32"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect33);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+           x="489.66602"
+           y="563.50171"
+           id="tspan2">smear</tspan></text>
+      <g
+         id="g36"
+         transform="translate(0.4081294)">
+        <g
+           id="g34"
+           transform="matrix(0.3073032,0,0,0.3073032,140.9216,120.06434)">
+          <circle
+             style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle33"
+             cx="58.14711"
+             cy="173.75668"
+             r="16.370079" />
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle34"
+             cx="58.126411"
+             cy="173.75513"
+             r="15.245911" />
+        </g>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect34"
+           width="3.0346019"
+           height="3.0346019"
+           x="148.89966"
+           y="171.94302"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,24.498331,17.380597)"
+           id="text34"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect35);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan3">smear</tspan></text>
+      </g>
+      <g
+         id="g41"
+         transform="translate(30.268165,-64.719563)">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect36"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text36"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect37);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan4">smear</tspan></text>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect38"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text38"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect39);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan5">smear</tspan></text>
+      </g>
+      <g
+         id="g42"
+         transform="translate(30.268165,-59.486984)">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect41"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text41"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect43);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan6">smear</tspan></text>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect42"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text42"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect44);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan7">smear</tspan></text>
+      </g>
+      <g
+         id="g46"
+         transform="translate(30.268165,-54.254405)">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect45"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text45"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect47);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan8">smear</tspan></text>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect46"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text46"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect48);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan9">smear</tspan></text>
+      </g>
+      <rect
+         style="fill:#f4eed7;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect49"
+         width="8.5358257"
+         height="8.5358257"
+         x="154.9306"
+         y="137.45496"
+         rx="1.0583333"
+         ry="1.0583333" />
+    </g>
+    <g
+       id="g59"
+       transform="translate(64.645207,-387.10775)">
+      <g
+         id="g50"
+         transform="matrix(0.3073032,0,0,0.3073032,141.32973,104.33737)">
+        <circle
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle49"
+           cx="58.14711"
+           cy="173.75668"
+           r="16.370079" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle50"
+           cx="58.126411"
+           cy="173.75513"
+           r="15.245911" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect50"
+         width="3.0346019"
+         height="3.0346019"
+         x="149.30779"
+         y="156.21605"
+         rx="1.0583333"
+         ry="1.0583333" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,24.906461,1.6536277)"
+         id="text50"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect60);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+           x="489.66602"
+           y="563.50171"
+           id="tspan10">smear</tspan></text>
+      <g
+         id="g53"
+         transform="translate(0.4081294)">
+        <g
+           id="g52"
+           transform="matrix(0.3073032,0,0,0.3073032,140.9216,120.06434)">
+          <circle
+             style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle51"
+             cx="58.14711"
+             cy="173.75668"
+             r="16.370079" />
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle52"
+             cx="58.126411"
+             cy="173.75513"
+             r="15.245911" />
+        </g>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect52"
+           width="3.0346019"
+           height="3.0346019"
+           x="148.89966"
+           y="171.94302"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,24.498331,17.380597)"
+           id="text52"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect61);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan11">smear</tspan></text>
+      </g>
+      <g
+         id="g54"
+         transform="translate(31.260342,-64.719563)">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect53"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text53"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect62);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan12">smear</tspan></text>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect54"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text54"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect63);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan13">smear</tspan></text>
+      </g>
+      <g
+         id="g56"
+         transform="translate(31.260342,-59.486984)">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect55"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text55"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect64);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan14">smear</tspan></text>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect56"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text56"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect65);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan15">smear</tspan></text>
+      </g>
+      <g
+         id="g58"
+         transform="translate(31.260342,-54.254405)">
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect57"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text57"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect66);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan16">smear</tspan></text>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect58"
+           width="3.0346019"
+           height="3.0346019"
+           x="120.77821"
+           y="186.1499"
+           rx="1.0583333"
+           ry="1.0583333" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-3.6815903,39.3957)"
+           id="text58"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect67);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+             x="489.66602"
+             y="563.50171"
+             id="tspan17">smear</tspan></text>
+      </g>
+      <rect
+         style="fill:#f4eed7;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect59"
+         width="8.5358257"
+         height="8.5358257"
+         x="154.9306"
+         y="137.45496"
+         rx="1.0583333"
+         ry="1.0583333" />
+    </g>
+    <g
+       id="g69"
+       transform="translate(112.10432,-387.10775)">
+      <g
+         id="g68"
+         transform="matrix(0.3073032,0,0,0.3073032,118.41274,104.33737)">
+        <circle
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle67"
+           cx="58.14711"
+           cy="173.75668"
+           r="16.370079" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle68"
+           cx="58.126411"
+           cy="173.75513"
+           r="15.245911" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect68"
+         width="3.0346019"
+         height="3.0346019"
+         x="126.3908"
+         y="156.21605"
+         rx="1.0583333"
+         ry="1.0583333" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,1.9894733,1.6536277)"
+         id="text68"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect69);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+           x="489.66602"
+           y="563.50171"
+           id="tspan18">smear</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.28818;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect70"
+       width="20.151077"
+       height="73.563248"
+       x="190.00177"
+       y="-269.1925"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <circle
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.417318;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle70"
+       cx="218.55211"
+       cy="-346.12051"
+       r="5.0305777" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.327278;stroke-dasharray:0.327278, 0.654556;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle71"
+       cx="218.54576"
+       cy="-346.12097"
+       r="4.6851172" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71"
+       width="3.0346019"
+       height="3.0346019"
+       x="208.66138"
+       y="-347.63782"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,84.260059,-502.20023)"
+       id="text71"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect81);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan19">smear</tspan></text>
+    <g
+       id="g73"
+       transform="matrix(0.3073032,0,0,0.3073032,200.68333,-383.78952)">
+      <circle
+         style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle72"
+         cx="58.14711"
+         cy="173.75668"
+         r="16.370079" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle73"
+         cx="58.126411"
+         cy="173.75513"
+         r="15.245911" />
+    </g>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect73"
+       width="3.0346019"
+       height="3.0346019"
+       x="208.66138"
+       y="-331.91083"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,84.260058,-486.47326)"
+       id="text73"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect82);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan20">smear</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect74"
+       width="3.0346019"
+       height="3.0346019"
+       x="261.55475"
+       y="-334.75876"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.09495,-481.51297)"
+       id="text74"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect83);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan21">smear</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect75"
+       width="3.0346019"
+       height="3.0346019"
+       x="261.55475"
+       y="-334.75876"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.09495,-481.51297)"
+       id="text75"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect84);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan22">smear</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect76"
+       width="3.0346019"
+       height="3.0346019"
+       x="261.55475"
+       y="-329.52618"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.09495,-476.28039)"
+       id="text76"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect85);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan23">smear</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect77"
+       width="3.0346019"
+       height="3.0346019"
+       x="261.55475"
+       y="-329.52618"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.09495,-476.28039)"
+       id="text77"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect86);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan24">smear</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect78"
+       width="3.0346019"
+       height="3.0346019"
+       x="261.55475"
+       y="-324.29361"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.09495,-471.04781)"
+       id="text78"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect87);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan25">smear</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect79"
+       width="3.0346019"
+       height="3.0346019"
+       x="261.55475"
+       y="-324.29361"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.09495,-471.04781)"
+       id="text79"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect88);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="489.66602"
+         y="563.50171"
+         id="tspan26">smear</tspan></text>
+    <rect
+       style="fill:#f4eed7;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect80"
+       width="8.5358257"
+       height="8.5358257"
+       x="264.44681"
+       y="-318.73416"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <g
+       id="g90"
+       transform="translate(76.055237,-412.57361)">
+      <g
+         id="g89"
+         transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+        <circle
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle88"
+           cx="58.14711"
+           cy="173.75668"
+           r="16.370079" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle89"
+           cx="58.126411"
+           cy="173.75513"
+           r="15.245911" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect89"
+         width="3.0346019"
+         height="3.0346019"
+         x="191.14218"
+         y="107.55648"
+         rx="1.0583333"
+         ry="1.0583333" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,58.367419,-34.962248)"
+         id="text89"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect90);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+           x="489.66602"
+           y="563.50171"
+           id="tspan27">smear</tspan></text>
+    </g>
+    <g
+       id="g92"
+       transform="translate(76.055237,-390.94172)">
+      <g
+         id="g91"
+         transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+        <circle
+           style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle90"
+           cx="58.14711"
+           cy="173.75668"
+           r="16.370079" />
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle91"
+           cx="58.126411"
+           cy="173.75513"
+           r="15.245911" />
+      </g>
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect91"
+         width="3.0346019"
+         height="3.0346019"
+         x="191.14218"
+         y="107.55648"
+         rx="1.0583333"
+         ry="1.0583333" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,58.367419,-34.962248)"
+         id="text91"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect92);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+           x="489.66602"
+           y="563.50171"
+           id="tspan28">smear</tspan></text>
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.315199;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect93"
+       width="20.124058"
+       height="88.122162"
+       x="258.65268"
+       y="-337.55057"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="260.59338"
+       y="-251.60739"
+       id="text93"><tspan
+         sodipodi:role="line"
+         id="tspan93"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.265"
+         x="260.59338"
+         y="-251.60739">Smear</tspan></text>
+    <g
+       id="g157"
+       transform="matrix(1.3925468,0,0,1.3925468,-77.843718,209.51168)">
+      <g
+         id="g105"
+         transform="translate(-73.099511,-183.88698)">
+        <g
+           id="g99"
+           transform="translate(-16.808424,-91.280247)">
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect94"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="169.09509"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,22.340892)"
+             id="text94"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect105);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect95"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="169.09509"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,22.340892)"
+             id="text95"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect106);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan29">lp/hp</tspan></text>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect96"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="174.32767"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,27.573471)"
+             id="text96"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect107);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan30">comb</tspan></text>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect97"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="174.32767"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,27.573471)"
+             id="text97"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect108);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect98"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="179.56024"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,32.80605)"
+             id="text98"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect109);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect99"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="179.56024"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,32.80605)"
+             id="text99"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect110);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan31">bp</tspan></text>
+        </g>
+        <rect
+           style="fill:#f4eed7;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect100"
+           width="8.5358257"
+           height="8.5358257"
+           x="188.39157"
+           y="93.839455"
+           rx="0.75999832"
+           ry="0.75999832" />
+        <g
+           id="g102">
+          <g
+             id="g101"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle100"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle101"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect101"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,59.458829,-34.962248)"
+             id="text101"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect111);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan32">freq</tspan></text>
+        </g>
+        <g
+           id="g104"
+           transform="translate(0.04903094,21.63189)">
+          <g
+             id="g103"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle102"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle103"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect103"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,60.370401,-34.962248)"
+             id="text103"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect112);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan33">res</tspan></text>
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.315199;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect104"
+           width="20.124058"
+           height="88.122162"
+           x="182.59744"
+           y="75.023056"
+           rx="0.75999832"
+           ry="0.75999832" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="184.53813"
+           y="160.96622"
+           id="text104"><tspan
+             sodipodi:role="line"
+             id="tspan104"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.265"
+             x="184.53813"
+             y="160.96622">SHAPE</tspan></text>
+      </g>
+      <g
+         id="g124"
+         transform="translate(-50.323171,-183.88698)">
+        <g
+           id="g118"
+           transform="translate(-16.808424,-91.280247)">
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect113"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="169.09509"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,22.340892)"
+             id="text113"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect124);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan34">od</tspan></text>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect114"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="169.09509"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,22.340892)"
+             id="text114"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect125);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect115"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="174.32767"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,27.573471)"
+             id="text115"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect126);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan35">fuzz</tspan></text>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect116"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="174.32767"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,27.573471)"
+             id="text116"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect127);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect117"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="179.56024"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,32.80605)"
+             id="text117"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect128);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan36">bit</tspan></text>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect118"
+             width="3.0346019"
+             height="3.0346019"
+             x="202.30794"
+             y="179.56024"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,77.848138,32.80605)"
+             id="text118"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect129);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <rect
+           style="fill:#f4eed7;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect119"
+           width="8.5358257"
+           height="8.5358257"
+           x="188.39157"
+           y="93.839455"
+           rx="0.75999832"
+           ry="0.75999832" />
+        <g
+           id="g121">
+          <g
+             id="g120"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle119"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle120"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect120"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,59.437125,-34.962248)"
+             id="text120"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect130);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan37">gain</tspan></text>
+        </g>
+        <g
+           id="g123"
+           transform="translate(0,21.63189)">
+          <g
+             id="g122"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle121"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle122"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect122"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,57.545767,-34.962248)"
+             id="text122"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect131);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan38">crunch</tspan></text>
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.315199;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect123"
+           width="20.124058"
+           height="88.122162"
+           x="182.59744"
+           y="75.023056"
+           rx="0.75999832"
+           ry="0.75999832" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="184.53813"
+           y="160.96622"
+           id="text123"><tspan
+             sodipodi:role="line"
+             id="tspan123"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.265"
+             x="184.53813"
+             y="160.96622">SMASH</tspan></text>
+      </g>
+      <g
+         id="g150"
+         transform="translate(-85.457317)">
+        <g
+           id="g142"
+           transform="translate(-10.418526,-162.25509)">
+          <g
+             id="g141"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle140"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle141"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect141"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,59.373563,-34.962248)"
+             id="text141"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect150);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan39">size</tspan></text>
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.315199;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect142"
+           width="20.124058"
+           height="88.122162"
+           x="172.17891"
+           y="-108.86392"
+           rx="0.75999832"
+           ry="0.75999832" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="174.1196"
+           y="-22.920763"
+           id="text142"><tspan
+             sodipodi:role="line"
+             id="tspan142"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.265"
+             x="174.1196"
+             y="-22.920763">SMEAR</tspan></text>
+      </g>
+      <g
+         id="g153"
+         transform="translate(-17.128298)">
+        <g
+           id="g152"
+           transform="translate(-4.4332186,-162.25509)">
+          <g
+             id="g151"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle150"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle151"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect151"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,58.382926,-34.962248)"
+             id="text151"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect153);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan40">color</tspan></text>
+        </g>
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.406465;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect152"
+           width="33.499733"
+           height="88.030899"
+           x="172.22455"
+           y="-108.81829"
+           rx="0.75999832"
+           ry="0.75999832" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="181.49455"
+           y="-22.920763"
+           id="text152"><tspan
+             sodipodi:role="line"
+             id="tspan152"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.265"
+             x="181.49455"
+             y="-22.920763">TAME</tspan></text>
+        <g
+           id="g43"
+           transform="translate(-4.4332186,-183.97452)">
+          <g
+             id="g2"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle1"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle2"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect3"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,59.420072,-34.962248)"
+             id="text43"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect51);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan41">gate</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:bold;font-size:4.55999px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';letter-spacing:-1.4117px;writing-mode:vertical-lr;direction:ltr;text-orientation:upright;fill:none;stroke:#000000;stroke-width:0.377007;stroke-linejoin:round;stroke-dasharray:3.01605, 0.377007"
+             x="192.89046"
+             y="120.34964"
+             id="text51"><tspan
+               sodipodi:role="line"
+               id="tspan51"
+               style="stroke-width:0.377007"
+               x="192.89046"
+               y="120.34964" /></text>
+        </g>
+      </g>
+      <g
+         id="g155"
+         transform="translate(-130.7525,-176.59401)">
+        <g
+           id="g156"
+           transform="translate(34.876638,-37.115998)">
+          <g
+             id="g154"
+             transform="matrix(0.3073032,0,0,0.3073032,174.79069,67.721495)">
+            <circle
+               style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.358;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle153"
+               cx="58.14711"
+               cy="173.75668"
+               r="16.370079" />
+            <circle
+               style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.065;stroke-dasharray:1.065, 2.13;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle154"
+               cx="58.126411"
+               cy="173.75513"
+               r="15.245911" />
+          </g>
+          <rect
+             style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.0411475;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect154"
+             width="3.0346019"
+             height="3.0346019"
+             x="191.14218"
+             y="107.55648"
+             rx="0.75999832"
+             ry="0.75999832" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,60.302963,-34.962248)"
+             id="text154"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect155);display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+               x="489.66602"
+               y="563.50171"
+               id="tspan42">mix</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g158"
+       transform="matrix(0.20765291,0,0,0.20765291,49.403856,183.22635)"
+       style="fill:#b3b3b3">
+      <path
+         sodipodi:type="star"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         id="path157"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="75.770081"
+         sodipodi:cy="182.40945"
+         sodipodi:r1="41.121834"
+         sodipodi:r2="35.612553"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 96.330996,218.02201 -41.121834,0 -20.560915,-35.61256 20.560918,-35.61255 41.121834,0 20.560911,35.61256 z" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.08479;stroke-dasharray:none;stroke-opacity:1"
+         id="circle157"
+         cx="75.770081"
+         cy="182.40945"
+         r="31.103148" />
+    </g>
+    <g
+       id="g159"
+       transform="matrix(0.20765291,0,0,0.20765291,123.39611,183.22635)"
+       style="fill:#b3b3b3">
+      <path
+         sodipodi:type="star"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         id="path158"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="75.770081"
+         sodipodi:cy="182.40945"
+         sodipodi:r1="41.121834"
+         sodipodi:r2="35.612553"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 96.330996,218.02201 -41.121834,0 -20.560915,-35.61256 20.560918,-35.61255 41.121834,0 20.560911,35.61256 z" />
+      <circle
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.08479;stroke-dasharray:none;stroke-opacity:1"
+         id="circle158"
+         cx="75.770081"
+         cy="182.40945"
+         r="31.103148" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86015px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.369024;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="51.307617"
+       y="208.68443"
+       id="text159"><tspan
+         sodipodi:role="line"
+         id="tspan159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.86015px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.369025"
+         x="51.307617"
+         y="208.68443">bypass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86015px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.369024;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="132.23126"
+       y="208.68443"
+       id="text160"><tspan
+         sodipodi:role="line"
+         id="tspan160"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.86015px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#414141;fill-opacity:1;stroke:none;stroke-width:0.369025"
+         x="132.23126"
+         y="208.68443">a/b</tspan></text>
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.0572998;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect160"
+       width="4.2258253"
+       height="4.2258253"
+       x="124.43481"
+       y="204.60605"
+       rx="1.0583333"
+       ry="1.0583333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.99773px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-3.482px;writing-mode:vertical-lr;direction:ltr;text-orientation:upright;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.469657;stroke-linejoin:round;stroke-dasharray:3.75726, 0.469657;stroke-dashoffset:0;stroke-opacity:1"
+       x="143.27277"
+       y="62.306171"
+       id="text161"
+       transform="scale(1.0616549,0.94192566)"><tspan
+         sodipodi:role="line"
+         id="tspan161"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2474px;font-family:'CaskaydiaMono Nerd Font';-inkscape-font-specification:'CaskaydiaMono Nerd Font, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-3.482px;writing-mode:vertical-lr;direction:ltr;text-orientation:upright;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.469657;stroke-linejoin:round;stroke-dasharray:3.75726, 0.469657;stroke-dashoffset:0;stroke-opacity:1"
+         x="143.27277"
+         y="62.306171"
+         dx="0 0 0 0"
+         dy="0 0 0 0">3STM</tspan></text>
+    <rect
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.524999;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="38.548546"
+       height="38.548546"
+       x="142.21288"
+       y="61.469307"
+       rx="2.6458333"
+       ry="2.6458333" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.223003;stroke-linejoin:round;stroke-dasharray:1.78403, 0.223003"
+       d="m 144.5605,85.652384 c 0,0 -3.66344,-5.513055 1.58749,-8.921125 5.25092,-3.408071 2.07594,-7.61804 5.37303,-4.310207 3.2971,3.307833 0.97692,2.606172 3.2971,8.820888 2.32017,6.214717 3.54132,10.324449 7.69321,5.312581 4.15189,-5.011868 3.78555,-2.606172 4.39612,-7.016616 0.61057,-4.410443 3.66344,-7.818514 5.61727,-7.21709 1.95383,0.601424 5.12881,7.317327 5.12881,7.317327 l 1.95383,8.219464"
+       id="path1" />
+  </g>
+</svg>
